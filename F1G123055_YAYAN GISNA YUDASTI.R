@@ -1,3 +1,4 @@
+# jurnal hasil data science https://docs.google.com/document/d/14mA44bm0Gh6kQ_2k0WrfppakwmDzhRRd/edit?usp=sharing&ouid=104243006301926771570&rtpof=true&sd=true
 # ============================================================
 # 1. SETUP LIBRARY & DATA
 # ============================================================
